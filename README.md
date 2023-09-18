@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently focusing on backend development using Java and Frontend using [React js](https://reactjs.org/)
 - 👯 Looking forward to collaborate on fullstack web projects
-- 🌱 I’m currently learning and building Apps using Java SpringBoot 
+- 🌱 I’m currently learning and building the backend using Java SpringBoot 
 - 📫 How to reach me:
 <p align="center"> 
  <a href="https://www.linkedin.com/in/humphrey-nyaga/">
