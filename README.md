@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Humphrey Nyaga</h1>
-<h3 align="center">A Software developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
+<h3 align="center">A Software Engineer <img src="https://www.flaticon.com/free-icon/engineer_11519041" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Humphrey-nyaga" alt="Humphrey-nyaga" /> </p>
 
 - 🔭 I’m currently focusing on backend development using Java and Frontend using [React js](https://reactjs.org/)
