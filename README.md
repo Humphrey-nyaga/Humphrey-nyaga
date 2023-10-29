@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Humphrey-nyaga" alt="Humphrey-nyaga" /> </p>
 
 - 🔭 I’m currently focusing on backend development using Java and Frontend using [React js](https://reactjs.org/)
-- 👯 Looking forward to collaborate on fullstack web projects
-- 🌱 I’m currently learning and building the backend using Java SpringBoot 
+- 👯 Looking forward to collaborating on full-stack projects
+- 🌱 I’m currently learning and building the backend using Jakarta EE and SpringBoot 
 - 📫 How to reach me:
 <p align="center"> 
  <a href="https://www.linkedin.com/in/humphrey-nyaga/">
